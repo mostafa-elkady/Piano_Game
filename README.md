@@ -32,7 +32,6 @@ The game is designed to be user-friendly and educational, helping users learn th
 - HTML
 - CSS
 - JavaScript
-- Web Audio API
 
 ## Installation
 
@@ -64,5 +63,5 @@ If you would like to contribute to this project, please follow these steps:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-##Live_Demo
+## Live_Demo
 https://mostafa-elkady.github.io/Piano_Game
